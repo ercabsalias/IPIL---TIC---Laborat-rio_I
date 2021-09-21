@@ -9,3 +9,6 @@ int main()
     printf("A área do quadrado = %f", A);
     return 0;
 }
+
+
+//ercabsalias
